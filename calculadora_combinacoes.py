@@ -35,7 +35,7 @@ class CombCalculator(QWidget):
         self.initUI()
 
     def initUI(self):
-        self.setWindowTitle('Calculadora de Combinações Simples')
+        self.setWindowTitle('Calculadora de Combinações Simples.')
         self.setGeometry(100, 100, 400, 200)
 
 
